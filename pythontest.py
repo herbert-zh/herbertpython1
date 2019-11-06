@@ -1,15 +1,7 @@
 import pymongo
-print ('welcome to python' )
+print ('welcome to python'
+print('welcome to cisco!')
 
 
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
 
 
