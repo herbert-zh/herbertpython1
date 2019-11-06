@@ -1,15 +1,7 @@
 import pymongo
 print ('welcome to python' )
+print('ccna ccnp ccie')
 
 
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
-cisco huawei h3c f5
 
 
